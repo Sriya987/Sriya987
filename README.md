@@ -18,6 +18,7 @@ I’m Sriya, a final-year Computer Science and Engineering student with a deep p
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sriya987&limit=5&theme=default&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=Sriya987&icon=5&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=Sriya987&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
